@@ -1,0 +1,13 @@
+employee_id,location,currency,annual_salary,employment_status,start_date,termination_date,dependants_count,elected_tier,absence_reason
+E2001,London,GBP,52000,active,2021-03-01,,0,Employee only,
+E2002,London,GBP,64500,active,2019-09-16,,2,Family,
+E2003,Manchester,GBP,41000,active,2026-08-17,,1,Employee plus dependants,
+E2004,London,GBP,58000,active,2022-01-10,,0,Employee only,
+E2005,Dublin,EUR,56000,active,2020-06-01,,1,Employee plus dependants,
+E2006,Amsterdam,EUR,61000,active,2023-04-03,,3,Family,
+E2007,New York,USD,98000,active,2021-11-01,,0,Employee only,Long-term sickness
+E2008,London,GBP,47000,active,2024-02-12,,0,Employee only,
+E2009,London,GBP,72000,terminated,2018-05-14,2026-06-30,0,Employee only,
+E2010,Manchester,GBP,38500,active,2025-07-07,,2,Family,
+E2011,Dublin,EUR,67000,active,2022-09-05,,0,Employee only,
+E2012,London,GBP,55500,active,2023-10-02,,1,Employee plus dependants,

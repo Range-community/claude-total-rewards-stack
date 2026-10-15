@@ -1,0 +1,26 @@
+employee_id,gender,category_of_worker,location,original_currency,fte,annual_base_fte_gbp,tenure_years
+E3001,F,Engineering L3,London,GBP,1.0,62000,2
+E3002,F,Engineering L3,London,GBP,1.0,64000,3
+E3003,F,Engineering L3,Dublin,EUR,1.0,66000,3
+E3004,F,Engineering L3,London,GBP,1.0,68000,4
+E3005,F,Engineering L3,New York,USD,1.0,70000,5
+E3006,M,Engineering L3,London,GBP,1.0,68000,4
+E3007,M,Engineering L3,London,GBP,1.0,70000,5
+E3008,M,Engineering L3,Amsterdam,EUR,1.0,72000,6
+E3009,M,Engineering L3,London,GBP,1.0,74000,6
+E3010,M,Engineering L3,New York,USD,1.0,76000,8
+E3011,F,Operations L2,London,GBP,1.0,44000,2
+E3012,F,Operations L2,London,GBP,1.0,45000,3
+E3013,F,Operations L2,Dublin,EUR,1.0,46000,3
+E3014,F,Operations L2,London,GBP,1.0,47000,4
+E3015,F,Operations L2,Amsterdam,EUR,1.0,48000,5
+E3016,M,Operations L2,London,GBP,1.0,44000,2
+E3017,M,Operations L2,London,GBP,1.0,45000,3
+E3018,M,Operations L2,Dublin,EUR,1.0,46000,4
+E3019,M,Operations L2,London,GBP,1.0,47000,4
+E3020,M,Operations L2,London,GBP,1.0,70000,9
+E3021,,Operations L2,London,GBP,1.0,46000,3
+E3022,F,Data L4,London,GBP,1.0,88000,6
+E3023,M,Data L4,London,GBP,1.0,90000,5
+E3024,M,Data L4,London,GBP,1.0,92000,7
+E3025,M,Data L4,London,GBP,1.0,94000,8

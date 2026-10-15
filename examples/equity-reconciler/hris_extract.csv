@@ -1,0 +1,15 @@
+employee_id,full_name,work_email,entity,country,pay_currency,employment_status,hire_date,termination_date,leaving_type
+E1004,Avery Test,avery.test@midpoint.example,Midpoint Ltd,United Kingdom,GBP,Active,2022-03-14,,
+E1009,Blake Sample,blake.sample@midpoint.example,Midpoint Ltd,United Kingdom,GBP,Active,2024-11-04,,
+E1013,Casey Example,casey.example@midpoint.example,Midpoint Ltd,United Kingdom,GBP,Active,2021-06-01,,
+E1017,Drew Placeholder,drew.placeholder@midpoint.example,Midpoint Inc,United States,USD,Active,2023-05-15,,
+E1022,Emery Mock,emery.mock@midpoint.example,Midpoint Ltd,United Kingdom,GBP,Active,2025-06-02,,
+E1026,Finley Demo,finley.demo@midpoint.example,Midpoint Ltd,United Kingdom,GBP,Active,2024-09-09,,
+E1031,Gray Fictional,gray.fictional@midpoint.example,Midpoint Ltd,United Kingdom,GBP,Terminated,2023-09-04,2026-06-30,Resignation
+E1038,Harper Dummy,harper.dummy@midpoint.example,Midpoint Ltd,United Kingdom,GBP,Active,2025-12-01,,
+E1041,Indigo Trial,indigo.trial@midpoint.example,Midpoint Ireland Ltd,Ireland,EUR,Active,2025-03-10,,
+E1045,Jules Sandbox,jules.sandbox@midpoint.example,Midpoint BV,Netherlands,EUR,Active,2025-09-15,,
+E1052,Kit Specimen,kit.specimen@midpoint.example,Midpoint Ltd,United Kingdom,GBP,Active,2023-12-04,,
+E1058,Lane Pretend,lane.pretend@midpoint.example,Midpoint Ltd,United Kingdom,GBP,Active,2021-11-01,,
+E1060,Morgan Nominal,morgan.nominal@midpoint.example,Midpoint Inc,United States,USD,Active,2026-02-02,,
+E1061,Noel Faux,noel.faux@midpoint.example,Midpoint Ltd,United Kingdom,GBP,Active,2026-04-20,,

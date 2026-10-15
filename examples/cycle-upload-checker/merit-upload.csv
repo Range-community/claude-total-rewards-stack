@@ -1,0 +1,18 @@
+employee_id,org,country,currency,hris_fte,upload_fte,hire_date,status,rating,band_min,band_max,current_salary,new_salary,increase_pct,guideline_max_pct,increase_gbp_equiv,manager_justification
+E1001,Engineering,UK,GBP,1.0,1.0,2022-03-07,Active,Meets,52000,78000,64000,65900,3.0,3.0,1900,
+E1002,Engineering,UK,GBP,1.0,1.0,2020-09-14,Active,Exceeds,65000,98000,82000,86900,6.0,6.0,4900,
+E1003,Engineering,IE,EUR,1.0,1.0,2023-01-16,Active,Strong,56000,84000,70000,73100,4.4,4.5,2666,
+E1004,Engineering,UK,GBP,0.8,0.8,2021-06-01,Active,Meets,52000,78000,58000,59700,2.9,3.0,1700,
+E1007,Engineering,UK,GBP,1.0,1.0,2019-11-04,Active,Exceeds,65000,98000,95000,100700,6.0,6.0,5700,
+E1008,Engineering,NL,EUR,1.0,1.0,2024-02-12,Active,Strong,56000,84000,66000,68900,4.4,4.5,2494,
+E1005,Sales,UK,GBP,1.0,1.0,2021-04-19,Active,Strong,45000,70000,56000,58500,4.5,4.5,2500,
+E1006,Sales,US,USD,1.0,1.0,2022-08-22,Active,Meets,60000,92000,74000,76200,3.0,3.0,1716,
+E1009,Sales,UK,GBP,1.0,1.0,2023-05-08,Active,Exceeds,45000,70000,52000,55100,6.0,6.0,3100,
+E1010,Sales,IE,EUR,1.0,1.0,2020-02-03,Active,Strong,48000,75000,62000,64800,4.5,4.5,2408,
+E1012,Sales,UK,GBP,1.0,1.0,2024-01-15,Active,Meets,40000,62000,47000,48400,3.0,3.0,1400,
+E1011,Operations,UK,GBP,1.0,1.0,2022-10-03,Active,Meets,38000,58000,45000,49000,8.9,3.0,4000,
+E1013,Operations,UK,GBP,1.0,1.0,2019-07-15,Active,Strong,42000,64000,54000,56400,4.4,4.5,2400,
+E1014,Operations,NL,EUR,1.0,1.0,2021-09-27,Active,Exceeds,40000,62000,50000,53400,6.8,6.0,2924,Taken on regional lead scope from 1 Sep; agreed with HRBP
+E1015,Operations,UK,GBP,0.6,0.6,2023-03-20,Active,Meets,34000,52000,40000,41200,3.0,3.0,1200,
+E1019,Operations,UK,GBP,1.0,1.0,2026-09-14,Active,Meets,34000,52000,38000,39100,2.9,3.0,1100,
+E1016,Operations,US,USD,1.0,1.0,2020-05-11,Active,Below,48000,72000,58000,58000,0.0,0.0,0,

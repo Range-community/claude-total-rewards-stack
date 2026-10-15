@@ -1,0 +1,21 @@
+employee_id,role,team,location,currency,annual_base_fte,band_min,band_mid,band_max
+E2001,Software Engineer,Engineering,London,GBP,58000,55000,65000,75000
+E2002,Software Engineer,Engineering,London,GBP,61000,55000,65000,75000
+E2003,Software Engineer,Engineering,London,GBP,64000,55000,65000,75000
+E2004,Software Engineer,Engineering,London,GBP,66000,55000,65000,75000
+E2005,Software Engineer,Engineering,London,GBP,70000,55000,65000,75000
+E2006,Software Engineer,Engineering,London,GBP,78000,55000,65000,75000
+E2007,Data Analyst,Data,London,GBP,43000,42000,50000,58000
+E2008,Data Analyst,Data,London,GBP,46000,42000,50000,58000
+E2009,Data Analyst,Data,London,GBP,49000,42000,50000,58000
+E2010,Data Analyst,Data,London,GBP,52000,42000,50000,58000
+E2011,Data Analyst,Data,London,GBP,56000,42000,50000,58000
+E2012,Operations Coordinator,Operations,Amsterdam,EUR,40000,38000,45000,52000
+E2013,Operations Coordinator,Operations,Amsterdam,EUR,44000,38000,45000,52000
+E2014,Operations Coordinator,Operations,Amsterdam,EUR,47000,38000,45000,52000
+E2015,Account Executive,Sales,New York,USD,72000,70000,85000,100000
+E2016,Account Executive,Sales,New York,USD,80000,70000,85000,100000
+E2017,Account Executive,Sales,New York,USD,85000,70000,85000,100000
+E2018,Account Executive,Sales,New York,USD,91000,70000,85000,100000
+E2019,Account Executive,Sales,New York,USD,97000,70000,85000,100000
+E2020,Account Executive,Sales,New York,USD,88000,,,

@@ -1,0 +1,26 @@
+Employee_ID,Team,Location,Gender,Level_from,Eligible,Promoted,Cycle
+E2001,Engineering,London,M,P2,Y,Y,2026-H1
+E2002,Engineering,London,M,P2,Y,Y,2026-H1
+E2003,Engineering,London,M,P3,Y,Y,2026-H1
+E2004,Engineering,London,F,P2,Y,N,2026-H1
+E2005,Engineering,London,F,P3,Y,N,2026-H1
+E2006,Engineering,London,F,P2,Y,N,2026-H1
+E2007,Engineering,New York,M,P2,Y,Y,2026-H1
+E2008,Engineering,New York,F,P2,Y,Y,2026-H1
+E2009,Engineering,New York,M,P3,Y,N,2026-H1
+E2010,Engineering,New York,F,P2,Y,N,2026-H1
+E2011,Engineering,London,M,P3,Y,N,2026-H1
+E2012,Engineering,London,F,P3,Y,N,2026-H1
+E2013,Sales,London,M,P2,Y,Y,2026-H1
+E2014,Sales,London,F,P2,Y,Y,2026-H1
+E2015,Sales,London,M,P2,Y,N,2026-H1
+E2016,Sales,Dublin,F,P2,Y,Y,2026-H1
+E2017,Sales,Dublin,M,P2,Y,Y,2026-H1
+E2018,Sales,New York,F,P2,Y,N,2026-H1
+E2019,Finance,London,F,P2,Y,Y,2026-H1
+E2020,Finance,London,M,P2,Y,N,2026-H1
+E2021,Finance,Amsterdam,F,P3,Y,N,2026-H1
+E2022,Finance,Amsterdam,M,P2,Y,Y,2026-H1
+E2022,Finance,Amsterdam,M,P2,Y,N,2026-H1
+E2023,People,London,F,P2,Y,Y,2026-H1
+E2024,People,London,,P2,Y,N,2026-H1

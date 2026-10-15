@@ -1,0 +1,11 @@
+employee_id,first_name,location,currency,current_salary,increase_pct,new_salary,effective_date,one_off_payment,new_title,approval_status,hr_note
+E1001,Amara,London,GBP,52000,4.0,54080,2026-04-01,0,,approved,
+E1002,Ben,London,GBP,64500,3.0,66435,2026-04-01,0,,approved,
+E1003,Chiara,Manchester,GBP,41000,5.0,43050,2026-04-01,0,,approved,
+E1004,Dev,London,GBP,58000,3.5,61500,2026-04-01,0,,approved,
+E1005,Elsa,Dublin,EUR,56000,4.0,58240,2026-04-01,0,,approved,
+E1006,Femi,Amsterdam,EUR,61000,3.0,62830,2026-04-01,1500,,approved,
+E1007,Grace,New York,USD,98000,4.5,102410,2026-04-01,0,,pending,Awaiting VP sign-off
+E1008,Hamza,London,GBP,47000,6.0,49820,2026-04-01,0,Senior Analyst,approved,Promotion
+E1009,Ines,London,GBP,72000,2.5,73800,2026-04-01,0,,approved,Tell her there will be a bigger rise next year if she stays
+E1010,Jonas,Manchester,GBP,38500,4.0,40040,2026-04-01,0,,approved,

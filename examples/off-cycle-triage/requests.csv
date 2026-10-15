@@ -1,0 +1,9 @@
+Request_ID,Employee_ID,Role,Level,Location,Currency,Salary,Band_currency,Band_min,Band_mid,Band_max,Last_increase_date,Last_increase_pct,Last_rating,Request_type,Requested_salary,Manager_reason,Flight_risk_evidence,Peers_in_role,Peer_median_salary
+R1,E3001,Analyst,G3,London,GBP,47000,GBP,42000,50000,58000,2026-04-01,4.0,Meets,Market,52000,Role has grown since the cycle,,5,50000
+R2,E3002,Senior Analyst,G4,Dublin,EUR,66000,EUR,58000,68000,78000,2025-04-01,3.5,Exceeds,Retention,72000,Has a written offer from another company,Offer letter seen by manager 2026-10-02,4,69000
+R3,E3003,Lead,G5,London,GBP,92000,GBP,70000,82500,95000,2025-04-01,3.0,Meets,Retention,99000,Says they will leave otherwise,Told manager in a 1:1 on 2026-09-28,3,84000
+R4,E3004,Analyst,G3,New York,USD,68000,USD,60000,72000,84000,2025-04-01,3.0,Exceeds,Market,75000,Best performer on the team,,6,72000
+R5,E3005,Analyst,G3,Amsterdam,EUR,49000,EUR,45000,53000,61000,2026-07-01,5.0,Below expectations,Retention,56000,Threatens to resign,,4,52000
+R6,E3006,Senior Analyst,G4,New York,USD,88000,GBP,55000,65000,75000,2025-04-01,3.0,Meets,Market,95000,Role is getting harder,,3,92000
+R7,E3007,Analyst,G3,London,GBP,51000,GBP,42000,50000,58000,2025-04-01,3.0,Exceeds,Retention,55000,Recruiter has been in touch,Recruiter message screenshot dated 2026-09-20,5,50000
+R8,E3008,Lead,G5,New York,USD,112000,USD,100000,118000,136000,2025-04-01,3.0,Exceeds,Market,118000,Wants to be at midpoint,,2,118000

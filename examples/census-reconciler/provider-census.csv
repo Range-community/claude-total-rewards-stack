@@ -1,0 +1,12 @@
+employee_id,currency,insured_salary,cover_tier,dependants_on_policy,cover_start_date,status
+E2001,GBP,52000,Employee only,0,2021-03-01,active
+E2002,GBP,64500,Family,2,2019-09-16,active
+E2004,GBP,58000,Employee only,0,2022-01-10,active
+E2005,EUR,56000,Employee plus dependants,1,2020-06-01,active
+E2006,EUR,61000,Employee only,0,2023-04-03,active
+E2007,USD,98000,Employee only,0,2021-11-01,active
+E2008,GBP,47000,Employee only,0,2024-02-12,active
+E2009,GBP,72000,Employee only,0,2018-05-14,active
+E2010,GBP,38500,Family,2,2025-07-07,active
+E2011,EUR,67000,Employee only,0,2022-09-05,active
+E2012,GBP,55500,Employee plus dependants,1,2023-10-02,active

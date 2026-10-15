@@ -1,0 +1,11 @@
+Band_ID,Level,Location,Currency,Min,Mid,Max,Effective_date,Source_note
+G3,Analyst,London,GBP,42000,50000,58000,2026-04-01,Midpoint reward team 2026 band review
+G4,Senior Analyst,London,GBP,55000,65000,75000,2023-04-01,Midpoint reward team 2023 band review
+G5,Lead,London,GBP,70000,82500,95000,2026-04-01,Midpoint reward team 2026 band review
+G3,Analyst,Dublin,EUR,44000,52000,60000,2026-04-01,Midpoint reward team 2026 band review
+G5,Lead,Dublin,EUR,78000,90000,102000,2026-04-01,Midpoint reward team 2026 band review
+G3,Analyst,Amsterdam,GBP,45000,53000,61000,2026-04-01,Midpoint reward team 2026 band review
+G4,Senior Analyst,Amsterdam,EUR,58000,68000,78000,2026-04-01,Midpoint reward team 2026 band review
+G3,Analyst,New York,USD,60000,72000,84000,2026-04-01,Midpoint reward team 2026 band review
+G4,Senior Analyst,New York,USD,78000,92000,106000,2026-04-01,Midpoint reward team 2026 band review
+G5,Lead,New York,USD,100000,118000,136000,2026-04-01,Midpoint reward team 2026 band review

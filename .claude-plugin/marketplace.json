@@ -1,0 +1,21 @@
+{
+  "name": "range-total-rewards-stack",
+  "owner": {
+    "name": "Range",
+    "email": "giac@range.community",
+    "url": "https://range.community"
+  },
+  "metadata": {
+    "description": "Range x Claude: The Total Rewards Stack. 16 Claude skills covering 32 jobs across compensation, benefits, stock plan admin, pay data charts and reward comms.",
+    "version": "0.2.0"
+  },
+  "plugins": [
+    {
+      "name": "total-rewards-stack",
+      "source": "./plugins/total-rewards-stack",
+      "description": "16 Claude skills covering 32 total rewards jobs: market pricing, levelling and moves, the pay review cycle, pay fairness and transparency, benefits, equity and stock plans, data and decks, and comms and video. Built by Range (range.community).",
+      "version": "0.2.0",
+      "author": { "name": "Range", "email": "giac@range.community", "url": "https://range.community" }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "total-rewards-stack",
+  "description": "16 Claude skills covering 32 total rewards jobs: market pricing, levelling and moves, the pay review cycle, pay fairness and transparency, benefits, equity and stock plans, data and decks, and comms and video. Built by Range (range.community).",
+  "version": "0.2.0",
+  "author": { "name": "Range", "email": "giac@range.community", "url": "https://range.community" },
+  "homepage": "https://range.community/resources/",
+  "license": "MIT",
+  "keywords": ["compensation", "total-rewards", "benefits", "equity", "stock-plan-admin", "pay-transparency", "reward"]
+}
