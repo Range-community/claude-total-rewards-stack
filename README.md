@@ -83,4 +83,4 @@ Work from employee IDs, not names, and strip anything a job doesn't need (home a
 - [Range Weekly](https://range.community/newsletter/archive), the newsletter
 - [Apply to join Range](https://range.community/community/#signup), the community for reward people building with AI
 
-MIT licence: use it, adapt it, share it. Format inspired by Move's [TA Hiring Stack](https://github.com/we-are-move/claude-ta-hiring-stack). *A community project built for use with Claude; not affiliated with or endorsed by Anthropic.*
+MIT licence: use it, adapt it, share it. *A community project built for use with Claude; not affiliated with or endorsed by Anthropic.*
