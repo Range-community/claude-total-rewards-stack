@@ -2,6 +2,8 @@
 
 **16 free Claude skills covering 32 total rewards jobs, across comp, benefits, stock plan admin, pay data charts and reward comms. One install, about two minutes.**
 
+See all 16 skills on one page: [range.community/resources/total-rewards-stack](https://range.community/resources/total-rewards-stack/).
+
 Built by [Range](https://range.community), a community for reward professionals building with AI. Most of the 32 jobs come in pairs that need the same checks, so one skill does both.
 
 ## Install
