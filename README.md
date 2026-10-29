@@ -8,20 +8,24 @@ Built by [Range](https://range.community), a community for reward professionals 
 
 ## Install
 
-1. Open the **Claude desktop app** (any paid Claude plan). Don't have it? [Download it here](https://claude.ai/download).
-2. Go to **Settings → Capabilities → Add marketplace** and paste:
+1. Open the **Claude desktop app**, or go to [claude.ai](https://claude.ai) in a browser (any paid Claude plan). Don't have the app? [Download it here](https://claude.ai/download).
+2. Go to **Customize → Plugins → Add → Add marketplace** and paste:
 
    ```
    Range-community/claude-total-rewards-stack
    ```
 
-3. Install **total-rewards-stack**. All 16 skills are now live, and they update when we improve them.
+3. Open the **Discover** tab, find **total-rewards-stack** and click **Add**. All 16 skills are now live, and they update when we improve them.
 
-**Claude Code:** run `/plugin marketplace add Range-community/claude-total-rewards-stack`, then `/plugin install total-rewards-stack@range-total-rewards-stack`.
+**Claude Code:** run `/plugin marketplace add Range-community/claude-total-rewards-stack`, then `/plugin install total-rewards-stack@range-total-rewards-stack`. Claude Code asks where to install it. Choose **Install for you**.
 
-**Using claude.ai in a browser?** Click the green **Code** button above, then **Download ZIP**. Each folder in `plugins/total-rewards-stack/skills/` can be zipped and uploaded at claude.ai → Settings → Capabilities → Skills.
+**Switch on Create and edit files first.** The skills need it. Find it under **Settings → Capabilities**. On a Team or Enterprise plan, an Owner turns it on under **Organization settings → Plugins & skills**, and may need to let you add a marketplace.
 
-There's nothing to configure. Describe the job in plain English and the right skill picks it up.
+**Can't add a marketplace?** Download this repository as a ZIP, zip the `plugins/total-rewards-stack` folder, then go to **Customize → Plugins → Add → Upload plugin**.
+
+Menu names last checked on 29 Oct 2026.
+
+Then describe the job in plain English and the right skill picks it up.
 
 ## Try it on fake data first
 
